@@ -11,5 +11,5 @@ Unless required by applicable law or agreed to in writing, software distributed 
 Introduction
 
 Modified version of the thrift maven plugin as distributed by Apache Thrift.
-Binaries of the Thrift compiler for Windows and Centos/RHEL included.
-Unpack before use. Use at your own risk!
+Static build binaries of the Thrift compiler for Windows and Centos/RHEL included.
+Unpack the Linux version before use. Use at your own risk!
